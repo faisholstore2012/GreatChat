@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "daishol",
+      "password_hash": "$2a$12$X6U8JhOOnd5xJCS1g20E4OlQGBz2aVjlh6m3OB1HjrseMkxO9GwW.",
+      "created_at": "2026-10-07T18:30:05.867Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "sender_id": 1,
+      "receiver_id": null,
+      "room": "global",
+      "text": "aku",
+      "file_url": null,
+      "reply_to": null,
+      "created_at": "2026-10-07T18:30:14.416Z",
+      "edited": 0
+    }
+  ],
+  "reactions": [],
+  "nextUserId": 2,
+  "nextMessageId": 2
+}
